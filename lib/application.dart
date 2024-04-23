@@ -34,7 +34,7 @@ class ApplicationWithTheme extends StatelessWidget {
       child: BlocBuilder<ThemeCubit, ThemeData>(
         builder: (context, theme) {
           return MaterialApp(
-            title: "Explora",
+            title: "Carnet de Sante",
             theme: theme,
             debugShowCheckedModeBanner: false,
             initialRoute: RouterGenerator.splashRoute,

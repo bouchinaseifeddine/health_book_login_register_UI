@@ -1,4 +1,4 @@
-import 'package:carnet_csante/shared/background.dart';
+import '../shared/background.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

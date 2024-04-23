@@ -1,9 +1,8 @@
 import 'dart:async';
 
-import 'package:carnet_csante/shared/background.dart';
+import '../shared/background.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_svg/svg.dart';
 
 import '../utils/constants.dart';
 import '../utils/router_generator.dart';
